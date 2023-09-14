@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f7fc5cec2be0342b8a179d42e1031a98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - life: {instanceID: 0}
+  - image0: {fileID: -386881096824931695, guid: 2f963fedf6a04453eacb273d09ab2a03, type: 3}
+  - image25: {fileID: 6660807145169000683, guid: 2f963fedf6a04453eacb273d09ab2a03, type: 3}
+  - image50: {fileID: -9189961913883247733, guid: 2f963fedf6a04453eacb273d09ab2a03, type: 3}
+  - image75: {fileID: 3088950068047633820, guid: 2f963fedf6a04453eacb273d09ab2a03, type: 3}
+  - image100: {fileID: -9024726549458833000, guid: 2f963fedf6a04453eacb273d09ab2a03, type: 3}
+  - player: {instanceID: 0}
+  - text: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
