@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{592CBC40-4E9D-FEAC-2728-DBCEF4DE2BB1}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="545facc2-d093-4eb7-9d48-940cf65d7a08" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/Enemy.cs">
+    <Files>
+      <File FileName="Assets/script/MovePlayer.cs" />
+      <File FileName="Assets/script/Menu.cs" />
+      <File FileName="Assets/script/Cam.cs" />
+      <File FileName="Assets/script/HUD.cs" />
+      <File FileName="Assets/script/NadarPlayer.cs" />
+      <File FileName="Assets/script/Enemy.cs" Line="44" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
